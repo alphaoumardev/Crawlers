@@ -37,7 +37,7 @@ googletrans==4.0.0rc1
 greenlet==2.0.2
 h11==0.16.0
 h2==4.4.1
-hpack==3.0.0
+hpack==4.2.0
 hstspreload==2023.1.1
 httpcore==0.9.1
 httplib2==0.32.0
@@ -90,7 +90,7 @@ service-identity==21.1.0
 six==1.16.0
 sniffio==1.3.0
 sortedcontainers==2.4.0
-soupsieve==2.8.4
+soupsieve==2.9
 sqlparse==0.6.0
 tldextract==2.2.3
 trio==0.22.0
