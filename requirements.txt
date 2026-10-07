@@ -6,7 +6,7 @@ cachetools==5.3.0
 certifi==2024.7.4
 chardet==3.0.4
 charset-normalizer==3.1.0
-Django==5.2.16
+Django==5.2.17
 django-extensions==3.2.1
 django-filter==23.1
 django-restframework==0.0.1
@@ -32,7 +32,7 @@ idna==3.15
 importlib-metadata==6.4.1
 macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
 Markdown==3.11
-oauthlib==3.2.2
+oauthlib==4.0.0
 openpyxl==3.1.2
 outcome==1.2.0
 protobuf==5.29.6
@@ -54,7 +54,7 @@ sqlparse==0.6.0
 trio==0.22.0
 trio-websocket==0.10.2
 uritemplate==4.1.1
-urllib3==2.7.0
+urllib3==2.8.0
 wsproto==1.2.0
 zipp==3.19.1
 
