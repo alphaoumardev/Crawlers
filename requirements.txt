@@ -3,14 +3,14 @@ async-generator==1.10
 attrs==23.1.0
 beautifulsoup4==4.12.2
 cachetools==5.3.0
-certifi==2024.7.4
+certifi==2026.10.19
 chardet==3.0.4
 charset-normalizer==3.1.0
 Django==5.2.17
 django-extensions==3.2.1
 django-filter==23.1
 django-restframework==0.0.1
-djangorestframework==3.17.2
+djangorestframework==3.18.2
 et-xmlfile==1.1.0
 exceptiongroup==1.1.1
 google-api-core==2.11.0
